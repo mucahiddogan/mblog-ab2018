@@ -16,25 +16,30 @@
 * semver.org
 * git flow cheatsheet
 * dry
-* coc
+* coc  
+
+db yenileme
 
 * rails db:drop
 * rails db:create
-* rails db:migrate
+* rails db:migrate  
+---
 
-db yenileme
+
 
 * json web tokens
 
 * gem install haml
 * gem install haml-rails
-* bourbon.io
-
-* getbootstrap.com/docs
+* bourbon.io  
 
 simple form
+* getbootstrap.com/docs  
+  
+  ---
 
-* adresi satırından gelen tr en parametresi ile uygulamanın türkçe veya ingilicce oldugunu yakalaa
+
+* adresi satırından gelen tr en parametresi ile uygulamanın türkçe veya ingilicce oldugunu yakalaa  
 
 
 * Time_current
@@ -62,8 +67,8 @@ simple form
 * factory_bot
 * shoulda_matchers
 * database_cleaner
-* request_helpers
-
+* request_helpers  
+---
 
 * annotate efso gem
 
@@ -73,18 +78,19 @@ simple form
 
 * whenever = rails crontab
 
-# https://github.com/lab2023/playbook
+## https://github.com/lab2023/playbook
 
 * sidekiq
 * enum_helper
 * globalize
- 
+
+---
 
 ## Deploy gemlerı
 
 * capistrano
 * mina
-
+---
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
