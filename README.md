@@ -1,87 +1,89 @@
 # README
 
 5.times
-methods o şeyin hangi methodlarda kullanılacağını gosterir
-rubygems.org
+
+* methods o şeyin hangi methodlarda kullanılacağını gosterir
+
+* rubygems.org
 
 
-irb
-.Gemfile
-bundler
-bundle install
-pry
-rubytoolbox gem infosu verir
-:wq
-semver.org
-git flow cheatsheet
-dry
-coc
+* irb pry
+* .Gemfile
+* bundler
+* bundle install
+* rubytoolbox gem infosu verir
+* :wq
+* semver.org
+* git flow cheatsheet
+* dry
+* coc
 
-rails db:drop
-rails db:create
-rails db:migrate
- db yenileme
+* rails db:drop
+* rails db:create
+* rails db:migrate
 
-json web tokens
+db yenileme
 
-gem install haml
-gem install haml-rails
-bourbon.io
+* json web tokens
 
-getbootstrap.com/docs
+* gem install haml
+* gem install haml-rails
+* bourbon.io
+
+* getbootstrap.com/docs
+
 simple form
 
-adresi satırından gelen tr en parametresi ile uygulamanın türkçe veya ingilicce o
-oldugunu yakalaa
+* adresi satırından gelen tr en parametresi ile uygulamanın türkçe veya ingilicce oldugunu yakalaa
 
 
-Time_current
-sendgrid.com
+* Time_current
+* sendgrid.com
 
-mailtrap
-
-
-işte bu :     rails destroy model modelname
-
-rails generate scaffold boooossss  Name age:integer
-
- #TODO asdasdasdasdasdasdasd
- 	rails notes
+* mailtrap
 
 
+* işte bu :     rails destroy model modelname
 
-rails new app_name --api -T --database=postgresql
+* rails generate scaffold boooossss  Name age:integer
 
-Test rails
-
-rspec
-capybara
-factory_bot
-shoulda_matchers
-database_cleaner
-request_helpers
+ * #TODO asdasdasdasdasdasdasd
+ 
+ rails notes
 
 
-annotate efso game
-gem
 
-ember
+* rails new app_name --api -T --database=postgresql
 
-responder ez gem
+## Test rails
 
-whenever = rails crontab
+* rspec
+* capybara
+* factory_bot
+* shoulda_matchers
+* database_cleaner
+* request_helpers
+
+
+* annotate efso gem
+
+* ember
+
+* responder ez gem
+
+* whenever = rails crontab
 
 # https://github.com/lab2023/playbook
 
-sidekiq
-enum_helper
-globalize
+* sidekiq
+* enum_helper
+* globalize
+ 
 
+## Deploy gemlerı
 
-Deploy gemlerı
-
-capistrano
-mina
+* capistrano
+* mina
 
 
 This README would normally document whatever steps are necessary to get the
